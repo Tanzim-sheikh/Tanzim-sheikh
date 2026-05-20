@@ -62,7 +62,7 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tanzim-sheikh&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tanzim-sheikh&show_icons=true))
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanzim-sheikh&layout=compact&theme=radical)
 
