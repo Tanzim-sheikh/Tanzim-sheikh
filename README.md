@@ -32,14 +32,14 @@
 - **JWT Authentication** — secure login/signup with email verification
 - **User Management** — online/offline status, typing indicators, profile photos
 - **Tech:** React.js | Node.js | MongoDB | Socket.IO | Tailwind CSS
-- **Link:** [GitHub](https://github.com/Tanzim-sheikh/Nexa-Chat) | [Live Demo](https://nexa-chats.netlify.app)
+- **Link:** [GitHub](https://github.com/Tanzim-sheikh/InstagramFrontend) | [Live Demo](https://nexa-chats.netlify.app)
 ### 2. **EvenZap** — Event Booking Platform
 - **Role-based Access Control** — Admin, Organizer, User with unique permissions
 - **Complete Booking System** — event discovery, ticket booking, payment integration
 - **Email Notifications** — automated confirmations and updates
 - **Cloud Integration** — Cloudinary for image uploads, NodeMailer for emails
 - **Tech:** MERN Stack | Razorpay | Cloudinary | NodeMailer
-- **Link:**  [GitHub](https://github.com/Tanzim-sheikh/Event-Management) | [Live Demo](https://evenzap.netlify.app)
+- **Link:**  [GitHub](https://github.com/Tanzim-sheikh/EventPro-Frontend) | [Live Demo](https://evenzap.netlify.app)
 
 ### 3. **Nike Shoes E-Commerce** — Full-stack E-commerce Platform
 - **Admin Dashboard** — complete product CRUD operations
@@ -47,14 +47,14 @@
 - **Advanced Filtering** — filter by price, category, brand
 - **Protected Routes** — role-based access control with JWT
 - **Tech:** MERN Stack | Razorpay | Cloudinary | JWT
-- **Link:** [GitHub](https://github.com/Tanzim-sheikh/Nike-Ecommerce) | [Live Demo](https://nike-taas.nelify.app))
+- **Link:** [GitHub](https://github.com/Tanzim-sheikh/Nike-Frontend) | [Live Demo](https://nike-taas.nelify.app))
 
 ### 4. **Petal Pour Cafe** — Modern Landing Page
 - **Responsive Design** — mobile-first, fully responsive layout
 - **Component Architecture** — reusable React components
 - **Modern UI/UX** — smooth animations and transitions
 - **Tech:** React.js | Tailwind CSS | JavaScript
-- **Link:** [GitHub](https://github.com/Tanzim-sheikh/Petal-Pour-Cafe) | [Live Demo](https://petal-pour.netlify.app))
+- **Link:** [GitHub](https://github.com/Tanzim-sheikh/Flower-Cafe) | [Live Demo](https://petal-pour.netlify.app))
 
 ---
 
